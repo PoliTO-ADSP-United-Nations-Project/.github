@@ -1,12 +1,22 @@
-## Hi there 👋
+# Time-Series Forecasting for Humanitarian Aid
 
-<!--
+N.B. : Work in progress. Material could be incomplete or further modified.
 
-**Here are some ideas to get you started:**
+This page contains all the material developed for the [Applied Data Science Project](https://github.com/adsp-polito/adsp-polito.github.io), in collaboration with United Nations and the UNSSC organization. The project is part of the Polytechnic of Turin's [Data Science and Engineering](https://didattica.polito.it/laurea_magistrale/data_science/en/home) Master Degree.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+----
+
+Authors: 
+- [Lorenzo Bergadano](https://github.com/lolloberga)
+- [Arcangelo Frigiola](https://github.com/arcangeloC-137)
+- Giovanni Mantegna
+- [Giovanni Sciortino](https://github.com/GiovaSciortino)
+- [Valerio Zingarelli](https://github.com/z216z)
+
+Mentors:
+- Junjie Yang 
+- Itziar Arispe Ruiz de Gauna
+
+Course Referent and Supervisor:
+- Giuseppe Rizzo
