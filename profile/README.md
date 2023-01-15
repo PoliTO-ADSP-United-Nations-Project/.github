@@ -8,15 +8,15 @@ This page contains all the material developed for the [Applied Data Science Proj
 ----
 
 Authors: 
-- [Lorenzo Bergadano](https://github.com/lolloberga)
-- [Arcangelo Frigiola](https://github.com/arcangeloC-137)
-- Giovanni Mantegna
-- [Giovanni Sciortino](https://github.com/GiovaSciortino)
-- [Valerio Zingarelli](https://github.com/z216z)
+- [`Lorenzo Bergadano`](https://github.com/lolloberga)
+- [`Arcangelo Frigiola`](https://github.com/arcangeloC-137)
+- `Giovanni Mantegna`
+- [`Giovanni Sciortino`](https://github.com/GiovaSciortino)
+- [`Valerio Zingarelli`](https://github.com/z216z)
 
 Mentors:
-- Junjie Yang 
-- Itziar Arispe Ruiz de Gauna
+- `Junjie Yang` 
+- `Itziar Arispe Ruiz de Gauna`
 
 Course Referent and Supervisor:
-- Giuseppe Rizzo
+- `Giuseppe Rizzo`
