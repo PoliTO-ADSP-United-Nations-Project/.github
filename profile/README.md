@@ -27,8 +27,8 @@ The project responds directly to SDG 10 - Reduced Inequality, SDG 13 - Climate A
 </table>
 
 This repository is divided as follows:
-- `Code`
-- `Dataset`
+- [`Code`](https://github.com/PoliTO-ADSP-United-Nations-Project/tsf_model)
+- [`Dataset`](https://github.com/PoliTO-ADSP-United-Nations-Project/humanitarian_aid_dataset)
 
 Please, refere to the official paper (add link) for further information.
 
