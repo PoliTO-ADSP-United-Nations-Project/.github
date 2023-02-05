@@ -30,9 +30,18 @@ This repository is divided as follows:
 - [`Code`](https://github.com/PoliTO-ADSP-United-Nations-Project/tsf_model)
 - [`Dataset`](https://github.com/PoliTO-ADSP-United-Nations-Project/humanitarian_aid_dataset)
 
-Please, refere to the official paper (add link) for further information.
+Please, refere to the official [`paper`](https://github.com/PoliTO-ADSP-United-Nations-Project/.github/blob/main/ADSP_paper.pdf) for further information.
 
+## References
+If you find this work useful, pleace cite the paper above as:
 
+```bibtex
+@article{TSF_4_ha,
+  title={Time series forecasting for humanitarian aid},
+  author={Bergadano Lorenzo, Frigiola Arcangelo, Mantegna Giovanni, Scriotino Giovanni, Zingarelli Valerio},
+  year={2023}
+}
+```
 ----
 
 The project was proposed as part of the [Applied Data Science Project](https://github.com/adsp-polito/adsp-polito.github.io) course, in collaboration with United Nations and the UNSSC. It comes as part of the Polytechnic of Turin's [Data Science and Engineering](https://didattica.polito.it/laurea_magistrale/data_science/en/home) Master Degree.
