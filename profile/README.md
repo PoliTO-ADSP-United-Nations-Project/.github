@@ -2,9 +2,9 @@
 Big Data hold huge potential for humanitarian organisations, to improve their early warning systems and generate better contingency planning figures. It can provide granular, and almost real-time information in locations where there are few othere data sources.
 
 ## Project Description:
-The growing climate crisis, the increasingly recurring exceptional climatic events, and the consequent humanitarian crises that arise from them, have drawn attention to a very particular question: is there a link between extreme climatic events and migratory flows?
+Predicting migratory flows is crucial in managing humanitarian aid and determining the appropriate size of refugee camps. However, this forecast is challenging due to the numerous and complex factors such as politics, climate, social and economic issues. To tackle this issue, data-driven approaches are necessary. 
 
-The present work has the primary objective of predicting immigration inflows from different countries of origin, located in Africa and Middle-east. The prediction tries to take into account aspects related to climate change that can influence migratory flows. In addition, the constructed model takes into consideration further information deriving from social indices, humanitarian crises, etc.
+Despite advancements in collecting migration data and improving data collection methods, most data sources still lack sufficient frequency, definitions, coverage, accuracy, and quality assurance, particularly in terms of data on migration drivers like conflicts, human rights, and the economy. Effective forecasting requires high-quality data with accurate, timely and frequent information.
 
 To achieve this goal, we took the state-of-the-art in time-series forecasting, and compared it to the latest deep learning models using transformers.
 
